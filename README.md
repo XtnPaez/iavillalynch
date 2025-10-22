@@ -1,3 +1,3 @@
 # IA - Villa Lynch 
 
-Repo de documentos y tips sobre IA
+Repo de documentos y tips sobre IA - CFP Villa Lynch
