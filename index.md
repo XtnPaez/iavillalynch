@@ -1,3 +1,1 @@
-## Índice 
-
 Estructura para PROMPTS exitosos : https://xtnpaez.github.io/iavillalynch/chat/estructura_de_prompts
