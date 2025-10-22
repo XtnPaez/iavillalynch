@@ -1,3 +1,5 @@
+# Estructura para PROMPTS exitosos
+
 ## **Objetivo de este documento**
 
 Aprender a utilizar ChatGPT y sus herramientas (Projects y GPTs personalizados) de forma profesional, aplicando una estructura clara y metódica para obtener resultados de calidad en menos tiempo.
@@ -80,4 +82,6 @@ Devuélvelo en formato TXT, salvo que explícitamente se indique otro formato. N
 
 * La IA no reemplaza tu criterio, lo amplifica.  
 * Promptear bien no es creatividad aleatoria, es método.  
-* Con ChatGPT + Projects + GPTs creas un sistema escalable y profesional.  
+* Con ChatGPT + Projects + GPTs creas un sistema escalable y profesional.
+
+Volver a inicio https://xtnpaez.github.io/iavillalynch/
