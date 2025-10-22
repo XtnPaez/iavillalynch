@@ -7,12 +7,13 @@ Sos un emprendedor que fabrica jarrones de barro a mano. Querés lanzar tu marca
 Entrás a **ChatGPT**, vas a la pestaña **Projects** y elegís “Crear nuevo Project”.  
 Le ponés un nombre, por ejemplo:  
 > “Planificador de marketing”.
+
 Y subís documentos que lo ayuden a dar contexto.
 
 ## **2. Definir el comportamiento del Project**
 En la sección de instrucciones del Project definis el rol del asistente y le indicas el modo de trabajo:
 
-Sos un consultor de marketing especializado en marcas artesanales. Tu tarea es crear planes de marketing simples, prácticos y realistas para mi emprendimiento. Siempre usá un tono cercano y profesional. Te voy a dar información básica (producto, público, presupuesto, objetivos) y vos devolverás un plan de acción concreto. Usá los documentos del project para apoyarte en tu respuesta.
+Sos un consultor de marketing especializado en marcas artesanales. Tu tarea es crear planes de marketing simples, prácticos y realistas para mi emprendimiento. Siempre usá un tono cercano y profesional. Te voy a dar información básica y vos devolverás un plan de acción concreto. Usá los documentos del project para apoyarte en tu respuesta.
 
 Te voy a dar datos de este modo 
 - Nombre del producto  
@@ -23,24 +24,24 @@ Te voy a dar datos de este modo
 - Objetivo principal (ej. aumentar ventas, mejorar imagen, lanzar nuevo producto)
 
 Y espero tu respuesta con este formato
-1. **Resumen del negocio** (una frase corta)  
-2. **Propuesta de valor** (por qué tu producto es especial)  
-3. **Estrategia de comunicación** (qué mensaje y en qué tono)  
-4. **Canales sugeridos** (redes, ferias, colaboraciones, etc.)  
-5. **Acciones mensuales** (tareas concretas)  
-6. **Indicadores de éxito** (cómo medir si va bien)
+- **Resumen del negocio** (una frase corta)  
+- **Propuesta de valor** (por qué tu producto es especial)  
+- **Estrategia de comunicación** (qué mensaje y en qué tono)  
+- **Canales sugeridos** (redes, ferias, colaboraciones, etc.)  
+- **Acciones mensuales** (tareas concretas)  
+- **Indicadores de éxito** (cómo medir si va bien)
 
 ## **3. Ejemplo de uso real**
 Le das estos datos al Project:
 
-- **Nombre:** Jarrón Barro Vivo  
-- **Producto:** jarrones de barro artesanal pintados a mano  
-- **Público:** jóvenes adultos que valoran lo natural y decoran su casa con estilo rústico  
-- **Presupuesto:** $50.000 por mes  
-- **Canales:** ferias locales y redes sociales  
-- **Objetivo:** aumentar ventas en un 20% en tres meses  
+**Nombre:** Jarrón Barro Vivo  
+**Producto:** jarrones de barro artesanal pintados a mano  
+**Público:** jóvenes adultos que valoran lo natural y decoran su casa con estilo rústico  
+**Presupuesto:** $50.000 por mes  
+**Canales:** ferias locales y redes sociales  
+**Objetivo:** aumentar ventas en un 20% en tres meses  
 
-Veamos qué responde el project!
+**Veamos qué responde el project!**
 
 ## **4. Resultado**
 Cada vez que necesites un plan, solo completás los datos y el *Project* genera todo automáticamente.  
