@@ -1,5 +1,5 @@
 ## IA - Villa Lynch
 
-[👉 Abrir grupo de WhatsApp](https://xtnpaez.github.io/iavillalynch/chat/gwa)
+[QR para unirse al grupo de Guasap](https://xtnpaez.github.io/iavillalynch/chat/gwa)
 
-[🧠 Ver estructura completa](https://xtnpaez.github.io/iavillalynch/chat/estructura_de_prompts)
+[Estructura de prompts](https://xtnpaez.github.io/iavillalynch/chat/estructura_de_prompts)
