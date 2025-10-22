@@ -1,0 +1,1 @@
+![Grupo de Guasap](gwa.png)
