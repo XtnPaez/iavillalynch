@@ -7,28 +7,22 @@ Sos un emprendedor que fabrica jarrones de barro a mano. Querés lanzar tu marca
 Entrás a **ChatGPT**, vas a la pestaña **Projects** y elegís “Crear nuevo Project”.  
 Le ponés un nombre, por ejemplo:  
 > “Planificador de marketing”.
-
-En la descripción escribís algo como:  
-> “Este proyecto genera planes de marketing personalizados para mi emprendimiento de jarrones de barro.”
+Y subís documentos que lo ayuden a dar contexto.
 
 ## **2. Definir el comportamiento del Project**
-En la sección de configuración del Project (donde se define el *rol del asistente*), escribís:
+En la sección de instrucciones del Project definis el rol del asistente y le indicas el modo de trabajo:
 
-> “Sos un consultor de marketing especializado en marcas artesanales. Tu tarea es crear planes de marketing simples, prácticos y realistas para mi emprendimiento. Siempre usá un tono cercano y profesional. Te voy a dar información básica (producto, público, presupuesto, objetivos) y vos devolverás un plan de acción concreto. Usá los documentos del project para apoyarte en tu respuesta.”
+Sos un consultor de marketing especializado en marcas artesanales. Tu tarea es crear planes de marketing simples, prácticos y realistas para mi emprendimiento. Siempre usá un tono cercano y profesional. Te voy a dar información básica (producto, público, presupuesto, objetivos) y vos devolverás un plan de acción concreto. Usá los documentos del project para apoyarte en tu respuesta.
 
-## **3. Armar la plantilla de entrada**
-Configurás los campos que el usuario completará cada vez que use el Project:
-
-- Nombre del emprendimiento  
+Te voy a dar datos de este modo 
+- Nombre del producto  
 - Tipo de producto  
 - Público objetivo  
 - Presupuesto mensual estimado  
 - Canales de venta actuales o deseados  
 - Objetivo principal (ej. aumentar ventas, mejorar imagen, lanzar nuevo producto)
 
-## **4. Diseñar la respuesta del Project**
-Indicás que el output del Project siga esta estructura:
-
+Y espero tu respuesta con este formato
 1. **Resumen del negocio** (una frase corta)  
 2. **Propuesta de valor** (por qué tu producto es especial)  
 3. **Estrategia de comunicación** (qué mensaje y en qué tono)  
@@ -36,10 +30,10 @@ Indicás que el output del Project siga esta estructura:
 5. **Acciones mensuales** (tareas concretas)  
 6. **Indicadores de éxito** (cómo medir si va bien)
 
-## **5. Ejemplo de uso real**
+## **3. Ejemplo de uso real**
 Le das estos datos al Project:
 
-- **Nombre:** Barro Vivo  
+- **Nombre:** Jarrón Barro Vivo  
 - **Producto:** jarrones de barro artesanal pintados a mano  
 - **Público:** jóvenes adultos que valoran lo natural y decoran su casa con estilo rústico  
 - **Presupuesto:** $50.000 por mes  
@@ -48,7 +42,7 @@ Le das estos datos al Project:
 
 Veamos qué responde el project!
 
-## **6. Resultado**
+## **4. Resultado**
 Cada vez que necesites un plan, solo completás los datos y el *Project* genera todo automáticamente.  
 Así ahorrás tiempo, mantenés coherencia y podés escalar tu negocio con una estrategia de marketing bien armada.
 
