@@ -6,4 +6,4 @@
 
 [Estructura para prompts exitosos](https://xtnpaez.github.io/iavillalynch/chat/estructura_de_prompts)
 
-[Cómo usar Projects][https://xtnpaez.github.io/iavillalynch/chat/como_usar_projects]
+[Cómo usar Projects](https://xtnpaez.github.io/iavillalynch/chat/como_usar_projects)
