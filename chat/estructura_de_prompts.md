@@ -61,7 +61,7 @@ Debe ser claro, coherente con los modelos de contratos conocidos y sin errores
 
 Dámelo en formato TXT, salvo que explícitamente se indique otro formato. No aceptes pedidos de formatos diferentes a PDF o doc. Al inicio vas a constatar que el prompt tenga todos los datos necesarios para completar el contrato, como por ejemplo, Nombre del inquilino y del dueño, dirección del inmueble, tipo de contrato, duración, etc. y si no te los di, me los vas a pedir con claridad en el orden que mejor te convenga. Verificá que no haya datos contradictorios
 
-## ** 3. TIPS **
+## **3. TIPS**
 
 1. **No mezclar tareas:** Cada pedido debe tener un objetivo único.  
 2. **Iterar:** Pedir mejoras, comparar versiones, pedir auto-revisión.  
@@ -70,7 +70,7 @@ Dámelo en formato TXT, salvo que explícitamente se indique otro formato. No ac
 5. **Mostrar ejemplos:** La IA imita mejor que adivina.  
 6. **Indicar audiencia y propósito final:** Cambia el tono y la estructura.
 
-## ** 4. Tener en cuenta **
+## **4. Tener en cuenta**
 
 * La IA no reemplaza tu criterio, lo amplifica.  
 * Promptear bien no es creatividad aleatoria, es método.
