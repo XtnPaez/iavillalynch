@@ -143,3 +143,5 @@ El lenguaje visual nunca actúa solo: siempre está mediado por palabras,
 cultura y contexto.
 Pensar el vínculo entre texto e imagen es pensar **cómo se construye el
 sentido en la mente del espectador.**
+
+Volver a inicio https://xtnpaez.github.io/iavillalynch/

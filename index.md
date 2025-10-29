@@ -10,4 +10,4 @@
 
 [Mirada gráfica](https://xtnpaez.github.io/iavillalynch/chat/mirada_grafica)
 
-[La última cena](https://xtnpaez.github.io/iavillalynch/chatluc)
+[La última cena](https://xtnpaez.github.io/iavillalynch/luc)
