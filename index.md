@@ -7,3 +7,7 @@
 [Estructura para prompts exitosos](https://xtnpaez.github.io/iavillalynch/chat/estructura_de_prompts)
 
 [Cómo usar Projects](https://xtnpaez.github.io/iavillalynch/chat/como_usar_projects)
+
+[Mirada gráfica](https://xtnpaez.github.io/iavillalynch/chat/mirada_grafica)
+
+[La última cena](https://xtnpaez.github.io/iavillalynch/chatluc)
